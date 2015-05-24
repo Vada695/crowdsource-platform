@@ -108,9 +108,6 @@
     })
     
     
- 
-  
-
     .when('/contributors/karan', {
       templateUrl: '/static/templates/contributors/karan.html'
     })
